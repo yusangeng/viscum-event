@@ -1,6 +1,6 @@
-# viscum-event
+# @viscum/event
 
-[![TypeScript](https://img.shields.io/badge/lang-typescript-blue.svg)](https://www.tslang.cn/) [![Build Status](https://travis-ci.org/yusangeng/viscum-event.svg?branch=master)](https://travis-ci.org/yusangeng/viscum-event) [![Coverage Status](https://coveralls.io/repos/github/yusangeng/viscum-event/badge.svg?branch=master)](https://coveralls.io/github/yusangeng/viscum-event?branch=master) [![Npm Package Info](https://badge.fury.io/js/viscum-event.svg)](https://www.npmjs.com/package/viscum-event) [![Downloads](https://img.shields.io/npm/dw/viscum-event.svg?style=flat)](https://www.npmjs.com/package/viscum-event)
+[![TypeScript](https://img.shields.io/badge/lang-typescript-blue.svg)](https://www.tslang.cn/) [![Build Status](https://travis-ci.org/yusangeng/@viscum/event.svg?branch=master)](https://travis-ci.org/yusangeng/@viscum/event) [![Coverage Status](https://coveralls.io/repos/github/yusangeng/@viscum/event/badge.svg?branch=master)](https://coveralls.io/github/yusangeng/@viscum/event?branch=master) [![Npm Package Info](https://badge.fury.io/js/@viscum/event.svg)](https://www.npmjs.com/package/@viscum/event) [![Downloads](https://img.shields.io/npm/dw/@viscum/event.svg?style=flat)](https://www.npmjs.com/package/@viscum/event)
 
 ## 综述 | Abstract
 
